@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"NFTIncentives_flattened.sol": "IProgress"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"NFTIncentives_flattened.sol": {
+			"keccak256": "0xa6d15a9ad9d8d11d073a599f91e412da7947d6baf4e8f315321d036440ac3cb7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://75591d2180738bc7137f539bea833194989c4117fcec38a3061e828b5f2d4062",
+				"dweb:/ipfs/QmZBicHeoXdbkeBhmRpjsMiM5ESmwoU2uYdPJCWo65rYd4"
+			]
+		}
+	},
+	"version": 1
+}
